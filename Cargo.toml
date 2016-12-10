@@ -1,0 +1,7 @@
+[package]
+name = "encrypter"
+version = "0.1.0"
+authors = ["Terje"]
+
+[dependencies]
+clap = "2.19"
